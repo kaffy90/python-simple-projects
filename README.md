@@ -1,2 +1,2 @@
-# pythontest
-practice: nested conditional
+# pythonsimpleprojects
+using nested conditional
